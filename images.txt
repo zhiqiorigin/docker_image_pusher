@@ -2,5 +2,6 @@ nginx
 #支持私库
 sonarqube:lts-community
 postgres:latest
+sonarqube:9.9.6-community
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
